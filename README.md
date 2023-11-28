@@ -1,10 +1,10 @@
 # Group members
 
-Sengendo Mark m22b13/013 A98261
+1.Sengendo Mark m22b13/013 A98261
 
-Nassuna Racheal s23b13/070 B24606
+2.Nassuna Racheal s23b13/070 B24606
 
-Lyton Kalete Kiyayi m22b13/025 A98308
+3.Lyton Kalete Kiyayi m22b13/025 A98308
 
 
 # library_management_system
